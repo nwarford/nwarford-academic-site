@@ -19,18 +19,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Everyday Security
+- Security of Overlooked Populations
+- Human-Computer Interaction
 
 education:
   courses:
-  - course: BS in Computer Science
+  - course: BA in Computer Science
     institution: Oberlin College
-    year: 2013
+    year: 2018
   - course: BM in Organ Performance
     institution: Oberlin Conservatory
-    year: 2013
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student at the University of Maryland, advised by <a href=https://www.umiacs.umd.edu/~mmazurek/>Michelle Mazurek</a>. My research interests focus on the intersection of computer security and everyday people. In particular, I am interested in populations with specific security concerns due to circumstance or demographic that don't fall easily under the label of "general users".
