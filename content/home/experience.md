@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://cs.umd.edu"
   location = "College Park, MD"
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2020-12-10"
   description = ""
 
 [[experience]]
