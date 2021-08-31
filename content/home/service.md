@@ -19,6 +19,7 @@ weight = 90
 * [CHI](https://chi2020.acm.org/): 2020
 
 ## Sub-Review Service
+* [SOUPS](https://www.usenix.org/conference/soups2021): 2021
 * [IEEE S&P](https://www.ieee-security.org/TC/SP2021/): 2021
 * [NDSS](https://www.ndss-symposium.org/ndss2020/): 2020
 
