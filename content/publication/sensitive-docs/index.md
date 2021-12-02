@@ -41,7 +41,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2105.14619
+url_pdf: https://www.usenix.org/conference/usenixsecurity21/presentation/warford
 url_code:
 url_dataset:
 url_poster:
