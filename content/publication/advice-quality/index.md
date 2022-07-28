@@ -12,7 +12,7 @@ authors:
 - Sean Kross
 - Miraida Morales
 - Rock Stevens
-- Michelle L Mazurek
+- Michelle L. Mazurek
 tags: []
 categories: []
 date: '2020-09-01'

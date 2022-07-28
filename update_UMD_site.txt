@@ -1,0 +1,7 @@
+Go make whatever changes in ~/nwarford-academic-site/
+
+Make sure to run `hugo` in that folder in order to build the site in the public folder.
+
+Then use this command (your password is the CS webmail password).
+
+scp -r ~/nwarford-academic-site/public/* nwarford@junkfood.cs.umd.edu:/fs/wwwusers/nwarford

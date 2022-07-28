@@ -4,10 +4,10 @@
 title: "Strategies and Perceived Risks of Sending Sensitive Documents"
 authors:
 - Noel Warford
-- Collins W Munyendo
+- Collins W. Munyendo
 - Ashna Mediratta
-- Adam J Aviv
-- Michelle L Mazurek
+- Adam J. Aviv
+- Michelle L. Mazurek
 date: '2021-08-11'
 doi: ""
 
@@ -31,7 +31,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
