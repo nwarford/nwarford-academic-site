@@ -20,4 +20,4 @@ Participants must fulfill the following eligibility requirements:
  - Current or former journalist covering media (film, television, video games, music, etc.)
  - Can work either independently (i.e. YouTube channel, blog, etc.) or for an outlet
 
-If you are interested, please fill out the form here: [CALENDLY URL GOES HERE](https://www.google.com/).
+If you are interested, please fill out the form here: [Link to Calendly scheduler](https://calendly.com/nwarford/interview)
