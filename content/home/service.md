@@ -16,7 +16,8 @@ weight = 90
 +++
 
 ## Reviews
-* [CHI](https://chi2020.acm.org/): 2020
+* [IEEE S&P](https://sp2024.ieee-security.org/): Program committee member, 2024
+* [CHI](https://chi2020.acm.org/): External reviewer, 2020
 
 ## Sub-Review Service
 * [SOUPS](https://www.usenix.org/conference/soups2021): 2021
