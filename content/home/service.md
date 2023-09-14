@@ -17,6 +17,7 @@ weight = 90
 
 ## Reviews
 * [IEEE S&P](https://sp2024.ieee-security.org/): Program committee member, 2024
+* [USENIX Security](https://www.usenix.org/conference/usenixsecurity22): Artifact evaluation committee member, 2022
 * [CHI](https://chi2020.acm.org/): External reviewer, 2020
 
 ## Sub-Review Service
@@ -25,4 +26,5 @@ weight = 90
 * [NDSS](https://www.ndss-symposium.org/ndss2020/): 2020
 
 ## Departmental Service
-* [Organized MC2 Security Reading Group](https://talks.cs.umd.edu/lists/19?range=past): 2020
+* UMD CS GradCo Peer Mentorship Program, Mentor: 2021-2023
+* [MC2 Security Reading Group](https://talks.cs.umd.edu/lists/19?range=past): Organizer, 2020
