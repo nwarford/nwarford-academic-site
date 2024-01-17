@@ -6,25 +6,26 @@ title: Noel Warford
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Visiting Instructor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Maryland
-  url: "https://www.cs.umd.edu/"
-- name: SP2
-  url: "sp2.umiacs.io"
+- name: Oberlin College
+  url: "https://www.oberlin.edu/arts-and-sciences/departments/computer-science"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include usable security and digital safety for at-risk users.
 
 interests:
-- Everyday Security
-- Security of Overlooked Populations
+- Human-Centered Security
+- Digital Safety for At-Risk Users
 - Human-Computer Interaction
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Maryland
+    year: 2024
   - course: BA in Computer Science
     institution: Oberlin College
     year: 2018
@@ -68,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Maryland, advised by <a href=https://www.umiacs.umd.edu/~mmazurek/>Michelle Mazurek</a>. My research interests focus on the intersection of computer security and everyday people. In particular, I am interested in populations with specific security concerns due to circumstance or demographic that don't fall easily under the label of "general users".
+I am a Visiting Instructor of Computer Science at Oberlin College. At the University of Maryland, I was advised by <a href=https://www.umiacs.umd.edu/~mmazurek/>Michelle Mazurek</a>. My research interests focus on the intersection of computer security and at-risk users - people who, due to context or circumstance, experience elevated digital-safety risks and harms".
