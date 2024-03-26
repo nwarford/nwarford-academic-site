@@ -16,6 +16,8 @@ weight = 90
 +++
 
 ## Reviews
+* [DIS]: reviewer, 2024
+* [IEEE S&P Magazine, Special Issue on Inclusive Privacy and Security](https://www.computer.org/digital-library/magazines/sp/cfp-inclusive-privacy-and-security): reviewer, 2024
 * [IEEE S&P](https://sp2024.ieee-security.org/): Program committee member, 2024
 * [USENIX Security](https://www.usenix.org/conference/usenixsecurity22): Artifact evaluation committee member, 2022
 * [CHI](https://chi2020.acm.org/): External reviewer, 2020

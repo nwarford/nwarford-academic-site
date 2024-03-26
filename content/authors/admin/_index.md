@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Visiting Instructor of Computer Science at Oberlin College. At the University of Maryland, I was advised by <a href=https://www.umiacs.umd.edu/~mmazurek/>Michelle Mazurek</a>. My research interests focus on the intersection of computer security and at-risk users - people who, due to context or circumstance, experience elevated digital-safety risks and harms".
+I am a Visiting Instructor of Computer Science at Oberlin College. At the University of Maryland, I was advised by <a href=https://www.umiacs.umd.edu/~mmazurek/>Michelle Mazurek</a>. My research interests focus on the intersection of computer security and at-risk users - people who, due to context or circumstance, experience elevated digital-safety risks and harms.
